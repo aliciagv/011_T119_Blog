@@ -19,7 +19,17 @@
     <body>
         <div class="container menu">
             <div class="wrapper">
+                <div class="navegador">
+                    <nav>
+                        <ul>
+                            <li>Menú</span></li>
+                            <li>Nuevo</li>
+                            <li>Buscar</li>
+                        </ul>
+                    </nav>
+                </div>
                 <img src="assets/head-brand-logo.svg" alt="logo-cabecera">
+                
             </div>
         </div>
 

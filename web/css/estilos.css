@@ -63,3 +63,22 @@ aside > img {
     padding-botton:10px;
     border-top: 1px solid #ccc;
 }
+.navegador {
+    position: relative;
+    left:0;
+    top:0;
+    float:left;
+}
+.navegador nav ul {
+    list-style: none;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 10px;
+}
+.navegador nav ul li {
+    display: inline-block;
+    padding: 0 20px;
+    line-height: 105px;
+    
+   
+}
