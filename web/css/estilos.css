@@ -55,3 +55,11 @@ aside > img {
 .seccion {
     background-color: #fff;
 }
+
+
+
+.noticia {
+    padding-top:10px;
+    padding-botton:10px;
+    border-top: 1px solid #ccc;
+}

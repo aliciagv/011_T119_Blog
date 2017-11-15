@@ -55,6 +55,7 @@
                     </div>
                     <div class="row">
                         <div class="col-md-9 seccion">
+                            <%for (int i=0; i<3;i ++){%>
                             <div class="row noticia">
                                 <div class="col-md-6">
                                     <h4>
@@ -70,11 +71,14 @@
 
                                 </div>
                                 <div class="col-md-6" imagen> <!-- barra lateral -->
-
+                                    <aside>
+                                        <img src="assets/images/1366_2000.jpg" alt="imagen-destacada4">
+                                    </aside>
 
                                 </div>
 
                             </div>
+                            <%}%>
                         </div>
                         <div class="col-md-3"> <!-- barra lateral -->
                             <aside>
